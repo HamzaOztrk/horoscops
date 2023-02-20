@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/horoscops/static/css/main.d7155a8b.css",
+    "main.js": "/horoscops/static/js/main.ad6b1b70.js",
+    "static/js/787.6c3fad03.chunk.js": "/horoscops/static/js/787.6c3fad03.chunk.js",
+    "static/media/logo.png": "/horoscops/static/media/logo.d6c42622bddf5a8e7575.png",
+    "index.html": "/horoscops/index.html",
+    "main.d7155a8b.css.map": "/horoscops/static/css/main.d7155a8b.css.map",
+    "main.ad6b1b70.js.map": "/horoscops/static/js/main.ad6b1b70.js.map",
+    "787.6c3fad03.chunk.js.map": "/horoscops/static/js/787.6c3fad03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7155a8b.css",
+    "static/js/main.ad6b1b70.js"
+  ]
+}
